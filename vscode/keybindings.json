@@ -1,0 +1,20 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "ctrl+1",
+    "command": "",
+    "when": ""
+  },
+  {
+    "key": "ctrl+k l",
+    "command": "workbench.action.splitEditorRight"
+  },
+  {
+    "key": "ctrl+k ctrl+\\",
+    "command": "-workbench.action.splitEditorRight"
+  },
+  {
+    "key": "ctrl+k =",
+    "command": "workbench.action.toggleEditorWidths"
+  }
+]

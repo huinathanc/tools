@@ -1,0 +1,10 @@
+[sequence]
+	editor = code --wait --reuse-window
+[user]
+	name = Nathan Hui
+[alias]
+	pushfwl = push --force-with-lease
+	oops = reset --soft HEAD~1
+	ck = checkout
+[core]
+	editor = code --wait
