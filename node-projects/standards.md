@@ -15,4 +15,6 @@ TLDR:
 ## Input Types
 
 No Input Type Number. Instead, use type="text" inputMode="numeric":
-https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/
+- https://stackoverflow.blog/2022/12/26/why-the-number-input-is-the-worst-input/
+- https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/
+
